@@ -1,6 +1,7 @@
 body{
     background-color:#8ace00;
     color: rgb(0, 0, 0);
+    font-family: "Bebas Neue", sans-serif;
 }
 
 header{
@@ -15,6 +16,7 @@ section {
    padding: 30px;
    margin-top: 15px;
    display: flex;
+   justify-content: center;
 }
 
  .chamada_texto {
